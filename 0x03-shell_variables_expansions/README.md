@@ -1,1 +1,1 @@
-My shell expansions readme
+My shell readme
